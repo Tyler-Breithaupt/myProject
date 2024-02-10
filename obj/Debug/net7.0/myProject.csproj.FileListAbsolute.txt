@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/myProject/bin/Debug/net7.0/myProject
+/Users/tylerbreithaupt/Desktop/CIT195/myProject/bin/Debug/net7.0/myProject.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/myProject/bin/Debug/net7.0/myProject.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/myProject/bin/Debug/net7.0/myProject.dll
+/Users/tylerbreithaupt/Desktop/CIT195/myProject/bin/Debug/net7.0/myProject.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/myProject/obj/Debug/net7.0/myProject.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/myProject/obj/Debug/net7.0/myProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/myProject/obj/Debug/net7.0/myProject.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/myProject/obj/Debug/net7.0/myProject.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/myProject/obj/Debug/net7.0/myProject.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/myProject/obj/Debug/net7.0/myProject.dll
+/Users/tylerbreithaupt/Desktop/CIT195/myProject/obj/Debug/net7.0/refint/myProject.dll
+/Users/tylerbreithaupt/Desktop/CIT195/myProject/obj/Debug/net7.0/myProject.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/myProject/obj/Debug/net7.0/myProject.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/myProject/obj/Debug/net7.0/ref/myProject.dll
